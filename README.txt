@@ -5,4 +5,5 @@ How to run? (for VS Code)
 4. press CTRL + ","
 5. search for "Terminal: Font Size"
 6. change value until you see everything correctly
+a) "see everything correctly" means that you're unable to scroll (beacause everything is on screen at onceS)
 7. game contains lists of possible acctions so it should be easy to play from there
